@@ -4,7 +4,7 @@
  */
  {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "v1-dogtopia-opshub-1ef08653-c188-4f2c-8a10-f7ee113c5542",
+	"name": "dd",
 	"main": "worker/index.ts",
 	"compatibility_date": "2025-04-24",
 	"assets": {
